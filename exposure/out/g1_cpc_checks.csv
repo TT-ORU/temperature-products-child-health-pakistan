@@ -1,0 +1,7 @@
+"check","value"
+"districts in rebuilt monthly series",141
+"districts in existing monthly file",109
+"max abs difference, rebuilt vs existing monthly file (common district-months)",1.34785970047346e-05
+"mean abs difference, mean of monthly means vs existing yearly file (annual mean of daily)",0.0340147103265559
+"max abs difference, same comparison",0.0922856936073497
+"correlation of district-year anomalies 2000-16, the two yearly constructions",0.999638421107624

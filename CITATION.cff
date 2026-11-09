@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this repository."
+title: "Temperature dataset choice and model specification influence climate–child-health associations: a multi-product analysis in Pakistan: R code and data"
+authors:
+  - family-names: Taj
+    given-names: Tahir
+    affiliation: "Department of Clinical Epidemiology and Biostatistics, Örebro University, Sweden"
+version: "1.1"
+date-released: "2026-11-09"
+license: MIT

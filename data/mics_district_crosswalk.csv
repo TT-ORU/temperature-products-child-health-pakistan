@@ -1,0 +1,130 @@
+province,hh7_code,mics_district_name,master_district_ids,match_type,note
+Punjab,1,Bahawalpur,78,exact,
+Punjab,2,Bahawalnagar,77,exact,
+Punjab,3,RY Khan,79,renamed,Rahimyar Khan
+Punjab,4,DG Khan,80,renamed,Dera Ghazi Kha
+Punjab,5,Layyah,81,exact,
+Punjab,6,Muzaffargarh,82,exact,
+Punjab,7,Rajanpur,83,renamed,Rajan Pur
+Punjab,8,Faisalabad,84,exact,
+Punjab,9,Chiniot,85,split_to_parent,Chiniot split from Jhang c.2009; mapped to Jhang
+Punjab,10,Jhang,85,exact,
+Punjab,11,TT Singh,86,renamed,Toba Tek Singh
+Punjab,12,Gujranwala,88;89,multi_id_average,Master panel has Gujranwala 1 and Gujranwala 2; averaged
+Punjab,13,Gujrat,87;90,multi_id_average,Master panel has both Gujarat and Gujrat entries; averaged
+Punjab,14,Hafizabad,91,exact,
+Punjab,15,Mandi Bahauddin,87;90,split_to_parent,Mandi Bahauddin split from Gujrat; mapped to Gujarat/Gujrat average
+Punjab,16,Narowal,92;93,multi_id_average,Master panel has Narowal 1 and Narowal 2; averaged
+Punjab,17,Sialkot,94,exact,
+Punjab,18,Lahore,96,exact,
+Punjab,19,Kasur,95,exact,
+Punjab,20,Nankana Sahib,97,exact,
+Punjab,21,Sheikhupura,100,exact,
+Punjab,22,Multan,103,exact,
+Punjab,23,Khanewal,101,exact,
+Punjab,24,Lodhran,102,exact,
+Punjab,25,Vehari,106,exact,
+Punjab,26,Rawalpindi,110,exact,
+Punjab,27,Attock,107,renamed,Attok
+Punjab,28,Chakwal,108,exact,
+Punjab,29,Jhelum,109,exact,
+Punjab,30,Sahiwal,105,exact,
+Punjab,31,Okara,98;99,multi_id_average,Master panel has Okara and Okara 1; averaged
+Punjab,32,Pakpattan,104,exact,
+Punjab,33,Sargodha,114,exact,
+Punjab,34,Bhakkar,111,exact,
+Punjab,35,Khushab,112,exact,
+Punjab,36,Mianwali,113,exact,
+Sindh,1,Kashmore,129,exact,
+Sindh,2,Jacobabad,128,renamed,Jakobabad
+Sindh,3,Shahdad Kot,130,split_to_parent,Qambar Shahdadkot split from Larkana c.2005; mapped to Larkana
+Sindh,4,Larkana,130,exact,
+Sindh,5,Shikarpur,131,exact,
+Sindh,6,Ghotki,137,exact,
+Sindh,7,Sukkur,141,exact,
+Sindh,8,Khairpur,138,exact,
+Sindh,9,Naushahro Feroze,139,renamed,Naushahro Firoz
+Sindh,10,Shaheed Benazirabad,140,renamed,Renamed from Nawabshah in 2008; mapped to Nawab Shah
+Sindh,11,Dadu,116,exact,
+Sindh,12,Jamshoro,118,exact,
+Sindh,13,Hyderabad,117,exact,
+Sindh,14,Matiari,119,exact,
+Sindh,15,Tando Allahyar,120,exact,
+Sindh,16,Tando Muhmmad Khan,121,renamed,Tando M. Khan
+Sindh,17,Badin,115,exact,
+Sindh,18,Sujawal,122,split_to_parent,Sujawal split from Thatta c.2013; mapped to Thatta
+Sindh,19,Thatta,122,exact,
+Sindh,20,Sanghar,134,exact,
+Sindh,21,Mirpur Khas,132,renamed,Mirphurkhas
+Sindh,22,Umer Kot,135,renamed,Umerkot
+Sindh,23,Tharparkar,133,renamed,Master panel entry is named Mithi (Tharparkar district HQ)
+Sindh,24,Karachi Malir,127,renamed,Malir
+Sindh,25,Karachi East,124,exact,
+Sindh,26,Karachi Central,123,exact,
+Sindh,27,Karachi West,126,renamed,Karachi west
+Sindh,28,Karachi South,125,exact,
+Sindh,29,Karachi Korangi,124,split_to_parent,No separate Korangi entry in master panel; approximated with adjacent Karachi East
+Balochistan,1,Awaran,9,exact,
+Balochistan,2,Barkhan,32,exact,
+Balochistan,3,Chaghi,24,renamed,Chagai
+Balochistan,4,Dera Bugti,28,exact,
+Balochistan,5,Gwadar,17,exact,
+Balochistan,6,Harnai,30,split_to_parent,Harnai split from Sibi; mapped to Sibi
+Balochistan,7,Jaffarabad,21,renamed,Jafarabad
+Balochistan,8,Jhal Magsi,22,exact,
+Balochistan,9,Kachhi (Bolan),20,renamed,Bolan
+Balochistan,10,Kalat,12,exact,
+Balochistan,11,Kech (Turbat),18,renamed,Kech
+Balochistan,12,Kharan,13,exact,
+Balochistan,13,Khuzdar,14,exact,
+Balochistan,14,Killa Abdullah,26,renamed,Qilla Abdullah
+Balochistan,15,Killa Saifullah,35,renamed,Qilla Saifullah
+Balochistan,16,Kohlu,29,renamed,Kholu
+Balochistan,17,Lasbela,15,exact,
+Balochistan,18,Lehri,20,split_to_parent,Lehri tehsil area; mapped to Bolan
+Balochistan,19,Loralai,33,exact,
+Balochistan,20,Mastung,16,exact,
+Balochistan,21,Musakhel,34,exact,
+Balochistan,22,Nasirabad,23,exact,
+Balochistan,23,Nushki,24,split_to_parent,Nushki split from Chagai; mapped to Chagai
+Balochistan,24,Panjgur,19,exact,
+Balochistan,25,Pishin,25,exact,
+Balochistan,26,Quetta,27,exact,
+Balochistan,27,Sheerani,,excluded,No corresponding entry in the 141-district master panel; children in this district excluded
+Balochistan,28,Sibbi,30,renamed,Sibi
+Balochistan,29,SohbatPur,21,split_to_parent,Sohbatpur split from Jafarabad/Naseerabad area; mapped to Jafarabad
+Balochistan,30,Washuk,13,split_to_parent,Washuk historically part of Kharan; mapped to Kharan
+Balochistan,31,Zhob,36,exact,
+Balochistan,32,Ziarat,31,exact,
+Khyber-Pakhtunkhwa,1,Abbotabad,58,renamed,Abbottabad
+Khyber-Pakhtunkhwa,2,Bannu,52,exact,
+Khyber-Pakhtunkhwa,3,Batagram,59,renamed,Battagram
+Khyber-Pakhtunkhwa,4,Buner,71,exact,
+Khyber-Pakhtunkhwa,5,Charsadda,74,exact,
+Khyber-Pakhtunkhwa,6,Chitral,66,exact,
+Khyber-Pakhtunkhwa,7,Dera Ismail Khan,54,exact,
+Khyber-Pakhtunkhwa,8,Hangu,63,exact,
+Khyber-Pakhtunkhwa,9,Hari Pur,60,renamed,Haripur
+Khyber-Pakhtunkhwa,10,Karak,64,exact,
+Khyber-Pakhtunkhwa,11,Kohat,65,exact,
+Khyber-Pakhtunkhwa,12,Kohistan,61,exact,
+Khyber-Pakhtunkhwa,13,Laki Marwat,53,renamed,Lakki Marwat
+Khyber-Pakhtunkhwa,14,Lower Dir,67,split_to_parent,Master panel has a single undivided Dir entry
+Khyber-Pakhtunkhwa,15,Malakand,68,renamed,Malakand P.A.
+Khyber-Pakhtunkhwa,16,Mansehra,62,exact,
+Khyber-Pakhtunkhwa,17,Mardan,72,exact,
+Khyber-Pakhtunkhwa,18,Nowshehra,75,renamed,Nowshera
+Khyber-Pakhtunkhwa,19,Peshawar,76,exact,
+Khyber-Pakhtunkhwa,20,Shangla,69,exact,
+Khyber-Pakhtunkhwa,21,Swabi,73,exact,
+Khyber-Pakhtunkhwa,22,Swat,70,exact,
+Khyber-Pakhtunkhwa,23,Tank,55,exact,
+Khyber-Pakhtunkhwa,24,Torghar,62,split_to_parent,Torghar split from Mansehra c.2011; mapped to Mansehra
+Khyber-Pakhtunkhwa,25,Upper Dir,67,split_to_parent,Master panel has a single undivided Dir entry
+Khyber-Pakhtunkhwa,26,Bajor,37,renamed,Bajaur (FATA; merged into KP administratively in 2018)
+Khyber-Pakhtunkhwa,27,Khyber,38,exact,FATA; merged into KP administratively in 2018
+Khyber-Pakhtunkhwa,28,Kuram,39,renamed,Kurram (FATA; merged into KP administratively in 2018)
+Khyber-Pakhtunkhwa,29,Mohmind,41,renamed,Mohmand (FATA; merged into KP administratively in 2018)
+Khyber-Pakhtunkhwa,30,North Waziristan,42,renamed,N. Waziristan (FATA; merged into KP administratively in 2018)
+Khyber-Pakhtunkhwa,31,Orakzai,43,exact,FATA; merged into KP administratively in 2018
+Khyber-Pakhtunkhwa,32,South Waziristan,44,renamed,S. Waziristan (FATA; merged into KP administratively in 2018)

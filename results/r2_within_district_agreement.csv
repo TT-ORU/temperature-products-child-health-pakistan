@@ -1,0 +1,37 @@
+run,level,pair,r,n
+frozen inputs,raw,tc-era5,0.8382272781373973,60181
+frozen inputs,raw,tc-cpc,0.7921197280954079,60181
+frozen inputs,raw,tc-ch,0.8696624011107983,60181
+frozen inputs,raw,era5-cpc,0.9034786424908396,60181
+frozen inputs,raw,era5-ch,0.9421846526521909,60181
+frozen inputs,raw,cpc-ch,0.9134977929333685,60181
+frozen inputs,after survey x age-year cells,tc-era5,0.3683422263615312,60181
+frozen inputs,after survey x age-year cells,tc-cpc,0.24218215729740486,60181
+frozen inputs,after survey x age-year cells,tc-ch,0.39688968772212796,60181
+frozen inputs,after survey x age-year cells,era5-cpc,0.26867295203003433,60181
+frozen inputs,after survey x age-year cells,era5-ch,0.5469189265986094,60181
+frozen inputs,after survey x age-year cells,cpc-ch,0.483802107402215,60181
+frozen inputs,after cells and district,tc-era5,0.3536769917298069,60181
+frozen inputs,after cells and district,tc-cpc,0.30045054973188934,60181
+frozen inputs,after cells and district,tc-ch,0.3964552911219557,60181
+frozen inputs,after cells and district,era5-cpc,0.4080774081872381,60181
+frozen inputs,after cells and district,era5-ch,0.5732911176645216,60181
+frozen inputs,after cells and district,cpc-ch,0.8122521845262809,60181
+land-masked CHIRTS,raw,tc-era5,0.8353655041723592,62055
+land-masked CHIRTS,raw,tc-cpc,0.786693999848907,62055
+land-masked CHIRTS,raw,tc-ch,0.8669358934198557,62055
+land-masked CHIRTS,raw,era5-cpc,0.9027119775375816,62055
+land-masked CHIRTS,raw,era5-ch,0.9425499476364256,62055
+land-masked CHIRTS,raw,cpc-ch,0.912669359199725,62055
+land-masked CHIRTS,after survey x age-year cells,tc-era5,0.39152489517628486,62055
+land-masked CHIRTS,after survey x age-year cells,tc-cpc,0.24422159875267047,62055
+land-masked CHIRTS,after survey x age-year cells,tc-ch,0.42114260126485853,62055
+land-masked CHIRTS,after survey x age-year cells,era5-cpc,0.30298587789020226,62055
+land-masked CHIRTS,after survey x age-year cells,era5-ch,0.5850166736982864,62055
+land-masked CHIRTS,after survey x age-year cells,cpc-ch,0.5042063352954549,62055
+land-masked CHIRTS,after cells and district,tc-era5,0.37130454231060106,62055
+land-masked CHIRTS,after cells and district,tc-cpc,0.31834427241903,62055
+land-masked CHIRTS,after cells and district,tc-ch,0.40888441036850454,62055
+land-masked CHIRTS,after cells and district,era5-cpc,0.4758434738741891,62055
+land-masked CHIRTS,after cells and district,era5-ch,0.6319168005606141,62055
+land-masked CHIRTS,after cells and district,cpc-ch,0.8309632830787396,62055

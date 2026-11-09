@@ -1,0 +1,9 @@
+sample,product,stations,station_months,anomaly_r,mean_bias
+"common station-months, all stations",tc,22,5461,0.6100444403935483,-0.6209172963383526
+"common station-months, all stations",era5,22,5461,0.6958002676538992,-2.17447917007688
+"common station-months, all stations",cpc,22,5461,0.71166655749316,-1.2842117577323708
+"common station-months, all stations",ch,22,5461,0.7345314230924285,-0.6511345943677157
+each product on its own station-months,tc,27,7421,0.5805023420084802,-0.5743284915750442
+each product on its own station-months,era5,27,7421,0.6691878109265936,-2.0550892918949777
+each product on its own station-months,cpc,22,5964,0.6891989068272678,-1.1955991744144776
+each product on its own station-months,ch,27,6799,0.7383054170097126,-0.5739245252004569
