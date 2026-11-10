@@ -1,0 +1,22 @@
+{
+  "title": "Temperature dataset choice and model specification influence climate–child-health associations: a multi-product analysis in Pakistan: R code and data",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Taj, Tahir",
+      "affiliation": "Örebro University, Sweden"
+    }
+  ],
+  "description": "R code for the undernutrition analyses, dated analysis plans, aggregate results and district-level temperature series for the article of the same title. MICS6 microdata are not included.",
+  "license": "MIT",
+  "keywords": [
+    "temperature",
+    "gridded climate data",
+    "child health",
+    "stunting",
+    "infant mortality",
+    "Pakistan",
+    "MICS"
+  ],
+  "version": "1.1"
+}
